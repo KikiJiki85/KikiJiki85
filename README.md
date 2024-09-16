@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KikiJiki85
 - 👀 I’m interested in Web Development especially Front-end
-- 🌱 I’m currently learning React\Redux
+- 🌱 I’m currently using React\Redux
 - 💞️ I’m looking to collaborate on different, interesting projects
 - 📫 How to reach me https://t.me/kikijiki85
 
