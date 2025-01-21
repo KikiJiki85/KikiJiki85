@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KikiJiki85
+- 👋 Hi, I’m Aleksei
 - 👀 I’m interested in Web Development especially Front-end
 - 🌱 I’m currently using React\Redux
 - 💞️ I’m looking to collaborate on different, interesting projects
